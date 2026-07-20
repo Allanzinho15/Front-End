@@ -1,0 +1,9 @@
+Renderização por condição
+
+Podemos atrelar a exibição de algum elemento a um if
+
+esra ação é chamada de renderização condicional
+
+como as chaves executam javaScript criamos nossa condição
+
+é possivel usar state para criar as condições

@@ -1,0 +1,11 @@
+Eventos
+
+os eventos de React são os mesmo evento do DOM
+
+ou seja, temos eventos para responder a um click
+
+o evento é atrelado a uma tag que irá executá-la 
+
+geralmente um método é atribuido ao evento
+
+este método deve ser criado no componente

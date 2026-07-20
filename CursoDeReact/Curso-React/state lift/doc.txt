@@ -1,0 +1,9 @@
+State lift
+
+state lift é um técnica utilizada para compartilhar o state
+
+é normal vários componentes dependerem do mesmo estado 
+
+então precisamos elevar o nível do mesmo a um componente precisamos
+
+então centralizamos o state no pai, e definimos quem usar e quem defini (setSatate)

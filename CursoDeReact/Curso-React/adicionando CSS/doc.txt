@@ -1,0 +1,11 @@
+Adicionando CSS
+
+o css pode ser adicionado de forma global na aplicação, por meio do arquivo index.css por exemplo
+
+porém é possivel estilizar a nível de componentes
+
+utilizamos o css modules para isso 
+
+basta criar um arquivo como componente.module.css
+
+e chamar este css no componente

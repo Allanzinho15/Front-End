@@ -1,0 +1,6 @@
+Métodos por props
+
+os métodos tambem podem ser passados por props
+ou seja um componente filho ativar o método do seu ancestral
+vamos sacessar o método por meio de um evento
+a sintaxe ;e a mesma de uma props de dados: props.meuEvento

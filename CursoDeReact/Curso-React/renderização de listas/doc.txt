@@ -1,0 +1,9 @@
+Renderização de listas
+
+para renderizar uma lista vamos priomeiramente prtecisar de um array
+
+depois utilizamos a função map, para perrcorrer cada um dos itens 
+
+podendo assim renderizar algo na tela 
+
+é possivel unir operadores condicionais com renderização de listas

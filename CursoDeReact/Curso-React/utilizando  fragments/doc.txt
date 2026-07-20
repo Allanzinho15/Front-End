@@ -1,0 +1,9 @@
+Fragmentos
+
+os react fragments permite a criação de um componente sem elemento pai
+
+o propósito é descomplicar os nós do dom 
+
+a sintaxe é <> e </>, não há um nome para a tag
+
+criamos no próprio jsx

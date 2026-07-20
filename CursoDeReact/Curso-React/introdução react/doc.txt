@@ -1,0 +1,8 @@
+O que é React
+
+uma biblioteca js para criação de interfaces
+utilizado para construir apas(Single page application)
+baseado em componentes
+utiliza o jsx para renderizar html 
+e aplica o virtual dom para realizar as alterações de dom
+podemos adicionar a um projeto ou criar um projeto com ele

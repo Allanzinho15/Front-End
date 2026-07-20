@@ -1,0 +1,7 @@
+entendendo o jsx 
+
+o jsx é como um HTML, porém dentro do código javascript
+é a principal maneira de escrever HTML com o react
+podemos interpolar variáveis, inserindo ela entre {}
+é possível também executar funções em jsx
+inserir valores em atributos de tags também é válido em jsx

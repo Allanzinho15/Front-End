@@ -1,0 +1,7 @@
+Componentes
+
+Permite dividir a aplicação em partes
+os Componentes renderizam jsx, assim como App.js (que é um componente)
+Precisamos criar um arquivo de componente
+E importá-lo onde precisamos utilizar
+Normalmente ficam em uma pasta chamada Componentes

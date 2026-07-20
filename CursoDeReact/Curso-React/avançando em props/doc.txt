@@ -1,0 +1,9 @@
+Avancando em props
+
+podemos definir tipos para as pronps, realizando uma espécie de validação
+
+Definimos em um objeto chamado propTypes no próprio componente
+
+e ainda há a possibilidade de definir um valor padrão
+
+Neste caso utilizzamos o objeto defaultProps

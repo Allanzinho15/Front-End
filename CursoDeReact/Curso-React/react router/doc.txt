@@ -1,0 +1,9 @@
+React Router
+
+o react rout é um pacode para mudança de URLs da aplicação
+
+podemos assim acessar outras views do layout da aplicação, seja, o que muda de view para view
+
+precisamos instalar este pacote no projeto
+
+e também realizar algumas mudanças em como o app é estruturado

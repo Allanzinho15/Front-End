@@ -1,0 +1,9 @@
+React Icons
+
+O React Icons é um pacote de Icones  externo
+
+precisamos adicionar ao projeto atraves do npm
+
+ele nos permite adicionar icones ao projeto com uma sintaxe parecida a de componentes 
+
+alem disso há um grande quantidade de icones disponiveis
